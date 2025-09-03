@@ -1,0 +1,6 @@
+x = c(0:10)
+pmf = dgeom(x, prob = 0.5)
+plot(x, pmf, xaxt = "n", xlab = "x", ylab = "probability", main = "pmf of Geom(p = 0.5)")
+axis(1, at = 0:10)
+lines(x, pmf, lwd = 1)
+points(x, pmf, pch = 16)
