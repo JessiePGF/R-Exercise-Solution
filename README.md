@@ -7,5 +7,5 @@ I am studying R through 《資料分析的統計學基礎--使用R語言》.This
 - Some exercises also require hand writting , such as mathematical derivations. There are only the R programming parts here.
 
 # Disclaimer
-These solutions are my personal work, I can't ensure they're 100 % right. Also, there might be other more efficient way to solve the problems.Feedback and suggestions are always welcome!
+These solutions are my personal work, I can't ensure they're 100 % right. Also, there might be other more efficient way to solve the problems.Feedback and suggestions are always welcome!  
 my Gmail: pr0974017483@gmail.com
