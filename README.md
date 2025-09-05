@@ -1,5 +1,5 @@
 # R Exercise from《資料分析的統計學基礎--使用R語言》
-I am studying R through 《資料分析的統計學基礎--使用R語言》.This book provides exercises but no official solutions, to enhance my understanding of statistics and R programming, I decided to write my own solutions and share them here.
+I am studying R through 《資料分析的統計學基礎--使用R語言》.This book provides exercises but no official solutions, to enhance my understanding of statistics and R programming, I decided to write my own solutions and share them here. Continuously updated as I progress.
 
 # Content
 - R scripts for exercise solutions from the book
